@@ -1,0 +1,8 @@
+{
+  "name": "AI Forge: Game & App Architect",
+  "description": "A high-performance IDE-like environment powered by Gemini 3 Pro to architect, code, and visualize full applications and games. Upload assets, documents, or codebases to give the AI context and generate complete solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
